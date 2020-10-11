@@ -16,14 +16,14 @@
 .section .contents{display: table-cell;padding: 30px;vertical-align: middle;text-align: center;}
 
 .center-box *{font-family: 'Fivo Sans Heavy',serif;}
-.center-box span{display: inline-block;padding: 40px;margin-left: -200px;background-color: #f4f4f4;font-size: 100px;color: #333;letter-spacing: 10px;vertical-align: top;}
+.center-box span{display: inline-block;padding: 40px;margin-left: -120px;background-color: #f4f4f4;font-size: 90px;color: #333;letter-spacing: 10px;vertical-align: top;}
 .center-box h2{display: inline-block;padding: 40px;margin-left: 200px;background-color: #fffdba;font-size: 100px;color: #333;letter-spacing: 10px;vertical-align: top;}
 
 
 /* ============================
     * footer
 ============================ */
-#footer{display: block;position: fixed;left: 0;bottom: 50px;width: 100%;font-size: 12px;font-weight: 300;color: #555;text-align: center;}
+#footer{display: block;position: fixed;left: 0;bottom: 40px;width: 100%;font-size: 12px;font-weight: 300;color: #555;letter-spacing: 1px;text-align: center;}
 
 
 /* ============================
